@@ -1,0 +1,27 @@
+
+[
+  {
+  
+    "matric": "UPDO2024001",
+    "fullname": "John Doe", 
+    "email": "john.doe@example.com", 
+    "profile_link": "../dashboard/profile.php", 
+    "supervisor_id": "1" 
+  },
+  {
+    
+    "matric": "UPDO2024002", 
+    "fullname": "Jane Smith",
+    "email": "jane.smith@example.com", 
+    "profile_link": "../dashboard/profile.php", 
+    "supervisor_id": "2" 
+  },
+  {
+    
+    "matric": "UPDO2024003", 
+    "fullname": "Alice Johnson", 
+    "email": "alice.johnson@example.com", 
+    "profile_link": "../dashboard/profile.php", 
+    "supervisor_id": "1" 
+  }
+]
